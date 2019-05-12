@@ -1,0 +1,20 @@
+body{
+    background-color: sienna;
+    /*background-position: center;
+    background-size: cover;*/
+    height: 100px;
+}
+.form2{
+    background-color: aliceblue;
+    text-align: center;
+    width: 300px;
+    height: 310px;
+    margin-left: 530px;
+}
+
+h1{
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
